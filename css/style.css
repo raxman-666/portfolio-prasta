@@ -1,0 +1,17 @@
+.card-position{
+	width: 18rem;
+	border-radius: 10px;
+	margin-top: 20px;
+}
+.card-text{
+	height: 75px;
+}
+.image-position{
+	margin-top: 12px;
+	border-radius: 5px;
+}
+.btn-style{
+	border-radius: 5px;
+	margin-top: 10px;
+	margin-left: 238px;
+}
